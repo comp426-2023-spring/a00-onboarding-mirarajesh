@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin macbook-air-463.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Mon Dec 19 20:44:01 PST 2022; root:xnu-8020.240.18~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Dec 12 2022 20:02:12)
+CURL:	[/Users/Mira/opt/anaconda3/bin/curl] curl 7.71.1 (x86_64-apple-darwin13.4.0) libcurl/7.71.1 OpenSSL/1.1.1k zlib/1.2.11 libssh2/1.9.0
+NODE:	[/Users/Mira/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
