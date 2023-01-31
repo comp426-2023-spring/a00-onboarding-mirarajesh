@@ -18,7 +18,7 @@ If you are a Windows user, you will becom a Linux user by installing the Windows
 
 ### Mac users
 
-1. Open a Terminal
+1. Open a Terminal and check
 
 2. Check to see if you have software installed or not.
 
